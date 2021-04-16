@@ -18,3 +18,21 @@ http://www.1kkk.com/
 
     <script src="http://push.zhanzhang.baidu.com/push.js"></script>
 
+### a.title 和 img.alt 
+运用没有看漫画那么频繁。alt没有用。
+但是，title用得多，而且尽量每个项弄两个title。图一个，点击链接一个。
+
+每个栏目，多出几个书项，我是6个，他是12个，可以横移。这样页面内容就多了一些，关键字也多了一些。
+
+
+    <li>                            
+    <div class="manga-list-2-cover">                                <a href="/manhua41957/" title="咒术回战"><img class="manga-list-2-cover-img" src="http://mhfm1tel.cdndm5.com/42/41957/20190701151032_180x240_19.jpg"></a>
+    <div>
+        <p class="manga-list-2-title">                          <a href="/manhua41957/" title="咒术回战">咒术回战</a>
+        </p>
+        <p class="manga-list-2-tip">                             <a href="/ch145-1128450/">最新 第145话</a>
+        </p>
+    </li>
+
+
+
